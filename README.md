@@ -52,11 +52,15 @@ Analise tendo considerados os dados disponíveis referentes ao período compreen
 
 ## Estrutura do Projeto
 
-Analise-CEAPS/
-├── data_ceaps/ # Pasta com os dados originais (arquivos brutos do dataset CEAPS)
-│ └── [arquivos do dataset] # 2018, 2019, 2020, 2021, 2022
-├── Analise de BD CEAPS.ipynb # Notebook principal com a análise
-├── README.md # Documentação do projeto
+📁 Analise-CEAPS/
+├── 📂 data_ceaps/             # Dados originais do CEAPS
+│   ├── 2018.csv
+│   ├── 2019.csv
+│   ├── 2020.csv
+│   ├── 2021.csv
+│   └── 2022.csv
+├── 📓 Analise de BD CEAPS.ipynb  # Notebook principal
+└── 📄 README.md               # Documentação
 
 
 ---
